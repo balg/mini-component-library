@@ -40,7 +40,6 @@ const Wrapper = styled.div.attrs((props) => ({
 }))`
   background-color: ${COLORS.transparentGray15};
   box-shadow: inset 0px 2px 4px ${COLORS.transparentGray35};
-  position: relative;
   border-radius: var(--border-radius);
   padding: var(--padding);
   height: var(--height);
